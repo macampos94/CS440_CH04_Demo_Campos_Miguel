@@ -1,1 +1,4 @@
 # CS440_CH04_Demo_Campos_Miguel
+
+
+The License used for this repository is a "GNU Public License". I believe that the software programmed for this example would be a great asset not only to myself but to others and I most closely agree with this License. It provides me with the freedom to allow my users to continue to expand on my work but still receive some financial compensation for my idea. While it would allow others to steal the product, I don't believe that this piece of code would inherently need to be completely protected as its intended use would be to share with others. I believe that by allowing others to look into my code and analyze it, it creates trust between the customer and my product while also allowing my userbase to provide input on my code provided here. Also assuming the product I've made is for the masses, then chances are very few would be capable of compiling or executing raw code from Github which still protects my creative work regardless.
